@@ -21,7 +21,8 @@
     "test:ci": "jest"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "repository": "github:grafana/grafana-aws-sdk-react",
   "author": "Grafana Labs <team@grafana.com> (https://grafana.com)",
